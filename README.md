@@ -26,7 +26,7 @@ red-hot,
 saddle-bags, 
 sugar-bowl, 
 three-in-a-row, 
-whoop-jamboreehoo, 
+whoop-jamboreehoo
 
 #### Pride and Prejudice
 
@@ -35,7 +35,7 @@ clear-sighted,
 country-town, 
 half-laughing, 
 ill-tempered, 
-man-servant, 
+man-servant
 
 #### The Picture of Dorian Gray
 
